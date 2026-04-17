@@ -126,7 +126,7 @@ mvn spring-boot:run
 curl -X POST "http://localhost:8080/customers?name=MeThaiHuy&job=BackendDeveloper"
 ```
 ---
-6. Giá Trị Doanh Nghiệp (Business Value) & Tầm Nhìn Dài Hạn
+## 6. Giá Trị Doanh Nghiệp (Business Value) & Tầm Nhìn Dài Hạn
 
 Tại sao chúng ta phải "chịu khổ" setup một kiến trúc Multi-module Maven lằng nhằng và chia cắt nhiều tầng như vậy thay vì viết mô hình MVC truyền thống cho nhanh?
 
